@@ -5,7 +5,7 @@ Compiling and Installing:
 
 Make sure you have libusb and libusb development packages installed.
 
-make clean install
+Please ensure that you run the following if you do not see your platform in the releases page: git clone https://github.com/Synergyst/dcdc-usb && cd dcdc-usb && ./build-and-install.sh
 
 It will install by default in /usr/local/
 
