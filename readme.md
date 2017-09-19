@@ -14,6 +14,9 @@ It will install by default in /usr/local/
 Usage:
 
 dcdc-usb -h will display the help options for the utility.
+
 dcdc-usb with no parameters will display the current output voltage.
+
 dcdc-usb -a will display all settings from the device.
+
 dcdc-usb -v 20.50 will set the output voltage to 20.5V.
