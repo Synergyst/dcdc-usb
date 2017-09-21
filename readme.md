@@ -1,6 +1,7 @@
 Linux application(dcdc-usb) and library (libdcdc-usb) for controlling and listing the 
 parameters of mini-box.com DCDC-USB product (http://www.mini-box.com/DCDC-USB)
 
+Pre-built and tested releases: https://github.com/Synergyst/dcdc-usb/releases
 
 Compiling and Installing:
 
